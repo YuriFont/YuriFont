@@ -8,8 +8,6 @@
 <br/>
 <br/>
 
-![YuriFont GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont)](https://github.com/yurifont/github-readme-stats)
 
 
