@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YuriFonteneleS)
 
 <br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont)](https://github.com/yurifont/github-readme-stats)
 
@@ -25,7 +24,6 @@
 
 </div>
 
-<br/>
 <br/>
 
 <h4>
