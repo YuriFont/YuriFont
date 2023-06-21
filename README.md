@@ -7,7 +7,11 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont)](https://github.com/yurifont/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=radical)
+
+<br/>
+
+
 
 
 ### Tecnologias utilizadas:
