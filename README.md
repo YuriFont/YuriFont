@@ -1,4 +1,4 @@
-### Olá meu nome é Yuri Fontenele 👍
+### Olá meu nome é Yuri Fontenele 
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-fontenele-2a2789235/)
@@ -7,11 +7,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=radical)
-
-<br/>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont&layout=compact&theme=merko)
 
 
 ### Tecnologias utilizadas:
