@@ -1,6 +1,6 @@
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="center"> ⚙️ &nbsp;GitHub Analytics </h1>
 
-<p align="left">
-<img width="470em" src="https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=nord" alt="Yuri's stats"/>
-<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont&layout=compact&theme=nord" alt="Yuri's most languages"/>
+<p align="center">
+<img width="470em" src="https://github-readme-stats.vercel.app/api?username=YuriFont&show_icons=true&theme=merko" alt="Yuri's stats"/>
+<img width="355em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriFont&layout=compact&theme=merko" alt="Yuri's most languages"/>
 </p>
